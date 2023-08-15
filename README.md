@@ -1,3 +1,7 @@
+ <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/llc8a85bnifyptoasdrl" alt="trackgit-views" />
+</a>
+
 # Calculator App
 
 A simple calculator application built using Java and Swing.
